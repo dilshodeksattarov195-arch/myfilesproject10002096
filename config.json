@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorvrocess",
+        "uuid": 7673456,
+        "checksum": "xegrao"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
